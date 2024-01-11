@@ -1,4 +1,4 @@
-# Status On IfVar's API 
-Well if your reading this, its probably safe to assume that
-
-* IfVar's API - Not Ready Yet
+# IfVar's API 
+![Static Badge](https://img.shields.io/badge/API_Status-Not_Ready_Yet-red)
+![Static Badge](https://img.shields.io/badge/API_Version-v1.0.0-blue)
+<br>
